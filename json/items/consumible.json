@@ -3,6 +3,7 @@
   "item_stack_limit": 64,
 
   "items": {
+    "category":["consumibles"],
     "consumibles": [
       {
         "id": "apple",
